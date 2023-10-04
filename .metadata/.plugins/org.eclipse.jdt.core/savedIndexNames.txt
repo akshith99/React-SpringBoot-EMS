@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\UdemyWebDevBootcamp\ReactUdemy\react-employee-management\.metadata\.plugins\org.eclipse.jdt.core
+2172745711.index
+1003889396.index
+1865797976.index
